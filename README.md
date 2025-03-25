@@ -12,6 +12,14 @@ API разработан с использованием Django REST Framework, 
 - Внесение новых данных о генетических тестах.
 - Агрегированный анализ данных тестов.
 
+## Технологии
+- Django
+- Django REST Framework
+- django-filter
+- django-environ
+- PostgreSQL
+- drf-spectacular
+
 ## Документация API
 Автоматически сгенерированная спецификация API доступна в формате OpenAPI.
 
